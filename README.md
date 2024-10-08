@@ -1,6 +1,6 @@
-# YB_Module-World
+# TK_Module-World
 
-Extension for Yahboom YB_Module-World V1.0
+Extension for Technokids TK_Module-World V1.0
 
 ## License
 
